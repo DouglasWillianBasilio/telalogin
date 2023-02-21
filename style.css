@@ -9,6 +9,9 @@ body {
 
 body * {
     box-sizing: border-box;
+    overflow: hidden;
+    
+    
 }
 
 .main-login {
